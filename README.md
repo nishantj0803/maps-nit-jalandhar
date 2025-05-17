@@ -104,5 +104,3 @@ To run this project locally, you will need a web server environment that support
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
 ---
-
-*This README provides a template. You should customize it further with specific details about your implementation, screenshots, and any other relevant information.*
